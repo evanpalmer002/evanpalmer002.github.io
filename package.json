@@ -1,0 +1,13 @@
+{
+  "name": "LabOne",
+  "version": "1.0.0",
+  "description": "First client side lab",
+  "main": "index.html",
+  "author": "Evan Palmer",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "bootstrap": "^5.0.0-beta1",
+    "jquery": "^3.5.1"
+  }
+}

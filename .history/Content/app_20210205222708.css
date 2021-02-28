@@ -1,0 +1,35 @@
+body, html {
+    height: 100%;
+}
+
+.bg {
+    background-image: url("../images/background.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color:   #cce0ff;
+    text-align: center;
+
+}
+
+h4 {
+    color:   #cce0ff;
+    text-align: center;
+}
+a {
+    color:   #cce0ff;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
